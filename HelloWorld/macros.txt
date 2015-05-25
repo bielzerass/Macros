@@ -1,0 +1,9 @@
+# HelloWorld
+# por otaku
+
+automacro HelloWorld {
+	hook in_game
+	call {
+		log Hello world!
+	}
+}
